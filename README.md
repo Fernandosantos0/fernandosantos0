@@ -1,6 +1,6 @@
 ### Olá, sejá bem-vindo no meu GitHub 👋
 
-<img style="display: block, margin: auto;" src="https://c.tenor.com/fviScdUkB2EAAAAM/yoda-fighting-stance.gif">
+<img style="display: block; margin: auto;" src="https://c.tenor.com/fviScdUkB2EAAAAM/yoda-fighting-stance.gif">
 
 - 📚 Atualmente estudando as tecnologia frontend - HTML5, CSS3 e JavaScript
 - 📧 Meu contato de e-mail é: fernandomeca7@gmail.com
