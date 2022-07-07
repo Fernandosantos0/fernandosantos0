@@ -4,7 +4,7 @@
 
 - 📚 Atualmente estudando as tecnologias frontend - HTML5, CSS3 e JavaScript
 - 📧 Meu contato de e-mail é: fernandomeca7@gmail.com
-- 📱 Meu número de telefone celular e whatsapp: (21) 96934-1330
+- 📱 Meu número de telefone celular e whatsapp: (21)96934-1330
 
 <div align="center">
   <a href="https://github.com/Fernandosantos0">
