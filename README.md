@@ -3,6 +3,8 @@
 <!-- <img style="display: block; margin: auto;" src="https://c.tenor.com/fviScdUkB2EAAAAM/yoda-fighting-stance.gif"> -->
 <img src="https://c.tenor.com/Fuk8UZ25dQUAAAAC/lightsaber-yoda.gif" alt="Mestre Yoda">
 
+- 🇧🇷 Brasileiro nato
+- 🏠 Morar em Nova Iguaçu - RJ (Rio de Janeiro)
 - 📚 Atualmente estudando as tecnologias frontend - HTML5, CSS3 e JavaScript
 - 📧 Meu contato de e-mail é: fernandomeca7@gmail.com
 - 📱 Meu número de telefone celular e WhatsApp: (21) 96934-1330
