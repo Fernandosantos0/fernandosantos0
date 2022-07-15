@@ -1,6 +1,7 @@
 ### Olá, sejá bem-vindo(a) ao meu GitHub 👋
 
-<img style="display: block; margin: auto;" src="https://c.tenor.com/fviScdUkB2EAAAAM/yoda-fighting-stance.gif">
+<!-- <img style="display: block; margin: auto;" src="https://c.tenor.com/fviScdUkB2EAAAAM/yoda-fighting-stance.gif"> -->
+<img src="https://c.tenor.com/Fuk8UZ25dQUAAAAC/lightsaber-yoda.gif" alt="Mestre Yoda">
 
 - 📚 Atualmente estudando as tecnologias frontend - HTML5, CSS3 e JavaScript
 - 📧 Meu contato de e-mail é: fernandomeca7@gmail.com
