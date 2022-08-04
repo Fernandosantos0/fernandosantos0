@@ -1,4 +1,4 @@
-### Olá, sejá bem-vindo(a) ao meu GitHub 👋
+### <h1 style="text-align: center;">Olá, sejá bem-vindo(a) ao meu GitHub 👋</h1>
 
 <!-- <img style="display: block; margin: auto;" src="https://c.tenor.com/fviScdUkB2EAAAAM/yoda-fighting-stance.gif"> -->
 <img src="https://c.tenor.com/Fuk8UZ25dQUAAAAC/lightsaber-yoda.gif" alt="Mestre Yoda">
